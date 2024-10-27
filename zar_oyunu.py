@@ -1,0 +1,1 @@
+print("Vs deki ilk kodum bu")
